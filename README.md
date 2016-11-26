@@ -4,14 +4,14 @@ Establishing a Developer Mindset
 
 ####Project Overview
 
-> Imagine that you are a month into your Nanodegree program and you’re
-> stuck. Totally stuck. You have no idea what’s wrong and you have no
-> idea how to get yourself out of this mess.  You’ll write a letter to
-> yourself using what you’ve learned.
+> Imagine that you are a month into your Nanodegree program and youâ€™re
+> stuck. Totally stuck. You have no idea whatâ€™s wrong and you have no
+> idea how to get yourself out of this mess.  Youâ€™ll write a letter to
+> yourself using what youâ€™ve learned.
 >
 > 1. How will you solve your problem?
 > 2. What skills do you have now that will help you tackle challenges?
-> 3. How will what you’ve learned about having a growth mindset help you reach your goals?
+> 3. How will what youâ€™ve learned about having a growth mindset help you reach your goals?
 >
 > *Optional: Consider writing your letter using basic markdown syntax, a*
 > *key skill that front-end developers use to write readmes.*
@@ -19,13 +19,13 @@ Establishing a Developer Mindset
 > Write a brief statement sharing your goals as a developer with us.
 > These goals can be project goals, career goals, or personal goals.
 >
-> 1. Is there a dream job you’re working toward?
-> 2. Is there a project idea you’ve been aching to start working on?
+> 1. Is there a dream job youâ€™re working toward?
+> 2. Is there a project idea youâ€™ve been aching to start working on?
 >
 > *Optional: In addition to your goals, we also want to know about any*
 > *questions you have about the process of becoming a Front End*
 > *Developer. Is there anything about being a Front-End Developer that*
-> *you’d like to know more about?*
+> *youâ€™d like to know more about?*
 
 ----------
 
